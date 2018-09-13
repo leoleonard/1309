@@ -5,10 +5,10 @@ public class Fridge {
     String expiryDate;
     int weight;
 
-    Fridge (String name, boolean vegetable, boolean fruit, String expiryDate, int weight) {
-        this.name = name;
-        this.vegetable = vegetable;
-        this.expiryDate = expiryDate;
-        this.weight = weight;
-    }
+//    Fridge (String name, boolean vegetable, boolean fruit, String expiryDate, int weight) {
+//        this.name = name;
+//        this.vegetable = vegetable;
+//        this.expiryDate = expiryDate;
+//        this.weight = weight;
+//    }
 }
