@@ -14,4 +14,4 @@ a przy zapisie:
 
 Car car1 = new Car(„BMW”, „M5”, 2007, 2.6);  Car car2 = car1;
 
-car1 I car2 to dwie instancje wskazujące na ten sam obiekt.
+car1 I car2 to dwie zmienne obiektowe wskazujące na ten sam obiekt.
